@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Account Book</string>
+    <string name="editone">Record a bill...</string>
+    <string name="month_out">Spending this month</string>
+    <string name="month_in">Income this month</string>
+    <string name="budget">Budget surplus</string>
+    <string name="view_form">View chart analysis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
